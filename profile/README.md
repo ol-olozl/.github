@@ -8,6 +8,23 @@
 - Clean, validate, and deliver high-quality trading data to research & trading teams  
 - Explore and communicate data-driven insights using Python, SQL, and PySpark
 
+## 🛠 Tech Stack
+**Languages & Libraries**  
+- Python (Pandas, NumPy, PySpark)  
+- SQL (PostgreSQL, MySQL)
+- Java
+- React
+
+**ETL & Workflow**  
+- Airflow, AWS S3, Docker, Kubernetes
+
+**Data Visualization**  
+- Tableau, Matplotlib, Seaborn
+
+**Development Tools**  
+- Jupyter Notebook, VS Code, PyCharm  
+- Git & GitHub
+
 ## 🌱 Currently Exploring
 - Machine Learning & Deep Learning (slow and steady!)
 - Business storytelling with data
