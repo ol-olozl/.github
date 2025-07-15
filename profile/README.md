@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 **Languages & Libraries**  
-- Python (Pandas, NumPy, PySpark)  
+- Python (Pandas, NumPy, PySpark, Sklearn)  
 - SQL (PostgreSQL, MySQL)
 - Java
 - React
