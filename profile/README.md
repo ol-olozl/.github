@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Zoey!
 
-🎯 Data Scientist(ex-dev) | Python & SQL | ETL | Data Quality | Analytics  
+🎯 Analytics Data Engineer (ex-dev) | Python & SQL | ETL | Data Quality | Analytics  
 📍 🇰🇷 South Korea | 🇺🇸 Worked in US | 🇬🇧 Worked in UK | Fluent in English
 
 ## 🔍 What I Do
@@ -12,23 +12,21 @@
 **Languages & Libraries**  
 - Python (Pandas, NumPy, PySpark, Sklearn)  
 - SQL (PostgreSQL, MySQL)
-- Java
-- React
 
 **ETL & Workflow**  
-- Airflow, AWS S3, Docker, Kubernetes
+- Airflow | AWS S3 | Ceph | Docker & Kubernetes
 
 **Data Visualization**  
-- Tableau, Matplotlib, Seaborn
+- Tableau | Matplotlib | Seaborn
 
 **Development Tools**  
 - Jupyter Notebook, VS Code, PyCharm  
 - Git & GitHub
 
 ## 🌱 Currently Exploring
-- Machine Learning & Deep Learning (slow and steady!)
-- Business storytelling with data
-- Sharing insights & dashboards that drive decisions
+- Advanced Analytics & Machine Learning
+- Real-time data streaming with Kafka
+- Business storytelling & dashboards that drive decisions
 
 ## 📫 Let's connect!
 - 📧 [email](olozl1228@gmail.com)
