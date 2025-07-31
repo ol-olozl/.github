@@ -1,14 +1,14 @@
-# 👋 Hello World, I'm Zoey!
+# Hello World, I'm Zoey!
 
-🎯 Analytics Data Engineer (ex-dev) | Python & SQL | ETL | Data Quality | Analytics  
-📍 🇰🇷 South Korea | 🇺🇸 Worked in US | 🇬🇧 Worked in UK | Fluent in English
+- Analytics Data Engineer (ex-dev) | Python & SQL | ETL | Data Quality | Analytics  
+- 🇰🇷 South Korea | 🇺🇸 Worked in US | 🇬🇧 Worked in UK | Fluent in English
 
-## 🔍 What I Do
+## What I Do
 - Build and automate ETL pipelines for scalable data workflows  
 - Clean, validate, and deliver high-quality data to teams  
 - Explore and communicate data-driven insights using Python, SQL, and PySpark
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages & Analytics**  
 - Python (Pandas, NumPy, PySpark, Sklearn)  
 - SQL (PostgreSQL, MySQL, BigQuery)
@@ -25,7 +25,7 @@
 **Development Tools**  
 - Jupyter Notebook | VS Code | PyCharm | Git & GitHub
 
-## 🌱 Currently Exploring
+## Currently Exploring
 - Advanced Analytics & Machine Learning
 - Real-time data streaming with Kafka
 - Business storytelling & dashboards that drive decisions
