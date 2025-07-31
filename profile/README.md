@@ -5,23 +5,25 @@
 
 ## 🔍 What I Do
 - Build and automate ETL pipelines for scalable data workflows  
-- Clean, validate, and deliver high-quality trading data to research & trading teams  
+- Clean, validate, and deliver high-quality data to teams  
 - Explore and communicate data-driven insights using Python, SQL, and PySpark
 
 ## 🛠 Tech Stack
-**Languages & Libraries**  
+**Languages & Analytics**  
 - Python (Pandas, NumPy, PySpark, Sklearn)  
-- SQL (PostgreSQL, MySQL)
+- SQL (PostgreSQL, MySQL, BigQuery)
 
-**ETL & Workflow**  
-- Airflow | AWS S3 | Ceph | Docker & Kubernetes
+**Data Platforms & Storage**  
+- BigQuery | MongoDB | AWS S3 | GCS | Ceph
 
-**Data Visualization**  
-- Tableau | Matplotlib | Seaborn
+**Workflow & Infrastructure**  
+- Airflow | Docker | Kubernetes
+
+**Monitoring & Visualization**  
+- Grafana | Prometheus | Looker | Tableau | Matplotlib | Seaborn
 
 **Development Tools**  
-- Jupyter Notebook, VS Code, PyCharm  
-- Git & GitHub
+- Jupyter Notebook | VS Code | PyCharm | Git & GitHub
 
 ## 🌱 Currently Exploring
 - Advanced Analytics & Machine Learning
