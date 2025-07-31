@@ -30,6 +30,6 @@
 - Real-time data streaming with Kafka
 - Business storytelling & dashboards that drive decisions
 
-## 📫 Let's connect!
+## Let's connect!
 - 📧 [email](olozl1228@gmail.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/eunjilee)
