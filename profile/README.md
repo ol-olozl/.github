@@ -1,6 +1,6 @@
 # Hello World, I'm Zoey!
 
-- Analytics Data Engineer (ex-dev) | Python & SQL | ETL | Data Quality | Analytics  
+- Analytics Data Engineer | Python & SQL | ETL | Data Quality | Analytics  
 - 🇰🇷 South Korea | 🇺🇸 Worked in US | 🇬🇧 Worked in UK | Fluent in English
 
 ## What I Do
