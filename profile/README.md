@@ -81,6 +81,32 @@ Apr 2025 – May 2025 (5 weeks)
 
 
 </details>
+<details>
+<summary><strong>4. <a href="https://github.com/youice913/2025-gwangjin-childpark-analysis">Gwangjin Childpark Analysis</a></strong></summary>
+
+> *Analyzed distribution and accessibility of children's parks in Gwangjin-gu; applied spatial analysis and weighted-sum integration to propose optimal candidate sites for new parks.*  
+
+**Goal**  
+Resolve spatial imbalance in children's park distribution within Gwangjin-gu and identify candidate sites for new park construction.  
+
+**Duration**  
+Mar 2025 – Apr 2025 (4 weeks)  
+
+**Team Size**  
+3  
+
+**My Role**  
+- Selected feasible land parcels for park construction using QGIS spatial analysis  
+- Conducted DEM analysis to filter out flatland areas suitable for development  
+- Performed buffer analysis & facility distribution mapping to identify initial candidate sites  
+- Integrated AHP and ML-based site evaluation results using a weighted-sum approach, and conducted spatial overlay visualization to determine the final optimal site  
+
+**Tech Stack**  
+- **Spatial Analysis**: QGIS, DEM, Buffer Analysis  
+- **Data Analysis**: Python (Pandas, NumPy, Geopandas), SQL  
+- **Visualization**: QGIS, Matplotlib, Seaborn 
+
+</details>
 
 ## Tech Stack
 **Languages & Analytics**  
